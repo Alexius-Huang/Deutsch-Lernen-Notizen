@@ -22,9 +22,25 @@ Jeweils fünf Sätze mit: um, durch, sodass, damit, indem.
 
 #### damit + Nebenstaz
 
+1. Studenten veröffentlichen Themen, damit sie von Universität Absolventen werden können.
+2. Meine Schwester schickt meiner Mutter Geld, damit meine Mutter sich Baby meiner Schwester kümmern.
+3. Präsident Trump sanktioniere China, damit Amerikanische Unternehmen in China verlassen müssen.
+4. Der Boss erziehe Gehalt der Mitarbeiteren, damit die Mitarbeiteren genügt werden.
+5. Das Konto hat Passwort und Multifaktor-Authentifizierung, damit die Hacker Informationen nicht bekommen können.
+
 #### sodass + Nebensatz
+
+1. Menschen in Taiwan tragen Masken, sodass Virus nicht leicht in Taiwan verbreite.
+2. Die Erde hat Wasser, sodass die Leben möglichkeit für existieren haben.
+3. Die Kohlendioxide werden dichter, sodass die Erde heißer wird.
+4. Die Wirtschaft wird besser, sodass Arbeitsmöglichkeiten wachsen.
+5. Die Pflanze ist giftig, sodass Tiere, sie die Pflanze essen, umbekommen werden.
 
 #### indem + Nebensatz
 
-
+1. Er findet eine Freundin, indem er eine Blume schickt und mit ihr ins Kino gehen.
+2. Haifisch findet sein Essen, indem es das Blut des Ziel reichen.
+3. Menschen in Taiwan sind wütend auf früherer Präsident Ma, indem er lassen Chinesische Leute Krankenversicherung benutzen.
+4. Meine Schwester verlieren ihr Gewicht, indem sie trainiere und Salad esse.
+5. Der Verbrecher entkommen vom Gefängnis, indem er Wand bohre durch.
 
