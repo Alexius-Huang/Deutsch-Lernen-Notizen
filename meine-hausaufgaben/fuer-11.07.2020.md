@@ -30,7 +30,7 @@ Jeweils fünf Sätze mit: **um, durch, sodass, damit, indem**.
 
 #### sodass + Nebensatz
 
-1. Menschen in Taiwan tragen Masken, sodass Virus nicht leicht in Taiwan verbreite.
+1. Menschen in Taiwan tragen Masken, sodass Virus nicht leicht in Taiwan verbreiten.
 2. Die Erde hat Wasser, sodass die Leben möglichkeit für existieren haben.
 3. Die Kohlendioxide werden dichter, sodass die Erde heißer wird.
 4. Die Wirtschaft wird besser, sodass Arbeitsmöglichkeiten wachsen.
