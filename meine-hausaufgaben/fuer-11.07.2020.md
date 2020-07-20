@@ -40,9 +40,9 @@ Jeweils fünf Sätze mit: **um, durch, sodass, damit, indem**.
 
 1. Er findet eine Freundin, indem er eine Blume schickt und mit ihr ins Kino gehen.
 2. Haifisch findet sein Essen, indem es das Blut des Ziel reichen.
-3. Menschen in Taiwan sind wütend auf früherer Präsident Ma, indem er lassen Chinesische Leute Krankenversicherung benutzen.
-4. Meine Schwester verlieren ihr Gewicht, indem sie trainiere und Salad esse.
-5. Der Verbrecher entkommen vom Gefängnis, indem er Wand bohre durch.
+3. Meine Schwester verlieren ihr Gewicht, indem sie trainiere und Salad esse.
+4. Der Verbrecher entkommen vom Gefängnis, indem er Wand bohre durch.
+5. ...
 
 ## Themen zu Diskutieren
 
