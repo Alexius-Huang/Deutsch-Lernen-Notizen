@@ -11,7 +11,9 @@
 
 ## Vokabulargruppen
 
-* [Die Kleidung](vokabulargruppen/die-kleidung.md)
+* [Die Kleidung \(s.\)](vokabulargruppen/die-kleidung.md)
+* [Das Tier / -e](vokabulargruppen/das-tier-e.md)
+* [Die Natur / -en](vokabulargruppen/die-natur-en.md)
 
 ## Meine Hausaufgaben
 

@@ -2,7 +2,7 @@
 description: Clothing
 ---
 
-# Die Kleidung
+# Die Kleidung \(s.\)
 
 * [ ] das Hemd / -en
 * [ ] das T-Shirt / -s
