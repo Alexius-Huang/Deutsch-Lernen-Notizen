@@ -38,35 +38,35 @@ Jeweils fünf Sätze mit: **um, durch, sodass, damit, indem**.
 
 #### indem + Nebensatz
 
-1. Er findet eine Freundin, indem er eine Blume schickt und mit ihr ins Kino gehen.
+1. Er findet seine Freundin, indem er eine Blume schickt und mit ihr ins Kino gehen.
 2. Haifisch findet sein Essen, indem es das Blut des Ziel reichen.
 3. Meine Schwester verlieren ihr Gewicht, indem sie trainiere und Salad esse.
 4. Der Verbrecher entkommen vom Gefängnis, indem er Wand bohre durch.
-5. ...
+5. Ich trainiere meinen Hund, indem ich den Ball zu es werfe.
 
 ## Themen zu Diskutieren
 
 #### Wie sollte man Geld verdienen?
 
-TBD...
+Man braucht kein Geld, wenn er oder sie zu überleben in der Wildnis fähig ist.
 
 #### Sollte man Lebensmittel im Angebot kaufen oder wenn man sie braucht?
 
-TBD...
+Ich denke es, dass man Lebensmittel kaufen sollte, wenn man sie braucht, weil Lebensmittel verschwenden werden, wenn man sie nicht braucht.
 
 #### Sollten Mädchen und Jungen getrennt unterrichtet werden?
 
-TBD...
+Nein, es ist besser für sie zusammen unterrichtet werden, weil sie Unterschied zwischen Geschlecht lernen können.
 
 #### Sind E-Autos wirklich gut für den Klimaschutz?
 
-TBD...
+Ja, E-Autos sind gut für den Klimaschutz, weil sie Elektrizität verbrauchen, dass sie keine Verschmutzung emittieren, und sie keinen Lärm produzieren.
 
 #### Sollten sich alle Menschen veganisch ernähren?
 
-TBD...
+Nein, Menschen ist frei, jede Lebensmittel zu essen.
 
 #### Sollten alle Programme ab jetzt nur noch in Java geschrieben werden?
 
-TBD...
+Nein, Programme zum beispiel Webseiten ab in JavaScript geschrieben werden.
 
