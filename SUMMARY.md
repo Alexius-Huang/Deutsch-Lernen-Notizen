@@ -4,6 +4,7 @@
 
 ## Grammatik
 
+* [Präpositionen](grammatik/praepositionen.md)
 * [Phrase](grammatik/phrase/README.md)
   * [um + zu-Infinitiv](grammatik/phrase/um-zu-infinitiv.md)
   * [damit/sodass + Nebensatz](grammatik/phrase/damit-sodass-nebensatz.md)
