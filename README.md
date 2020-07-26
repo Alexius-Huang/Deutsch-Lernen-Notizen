@@ -20,6 +20,9 @@
 
 * Das Verb / -en
 * Die Kleidung \(s.\)
+* Der Körper / -
+  * Der Körperteil / -e
+  * Die Anatomie / -n
 * Das Tier / -e
 * Die Natur / -en
 

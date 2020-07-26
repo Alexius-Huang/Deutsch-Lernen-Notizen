@@ -15,6 +15,7 @@
 
 * [Das Verb / -en](vokabulargruppen/das-verb-en.md)
 * [Die Kleidung \(s.\)](vokabulargruppen/die-kleidung.md)
+* [Der Körper / -](vokabulargruppen/der-koerper.md)
 * [Das Tier / -e](vokabulargruppen/das-tier-e.md)
 * [Die Natur / -en](vokabulargruppen/die-natur-en.md)
 
