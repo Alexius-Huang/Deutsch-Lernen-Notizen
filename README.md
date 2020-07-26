@@ -16,6 +16,33 @@
 
 ### Phrase
 
+TBD...
+
+### TBD...
+
+* Nomen
+  * Kapitalisierung
+  * Artikel
+  * Singular und Plural
+  * Zusammengesetzte Nomen \(Compound Nouns\)
+  * Die Zahl / -en
+  * Der Behuf / -e
+* Personalpronomen
+* Possesivpronomen
+* Verben
+  * Position Zwei
+  * Konjugation
+  * Modalverben
+* Die Zeitform / -en
+  * Präsens
+  * Plusquamperfekt
+  * Futur
+* Passiv
+* Der Nebensatz / Nebensätze
+  * Satzform
+  * Der Relativsatz / Relativsätze
+* Das Adjektiv / -e
+
 ## Vokabulargruppen
 
 * Das Verb / -en
