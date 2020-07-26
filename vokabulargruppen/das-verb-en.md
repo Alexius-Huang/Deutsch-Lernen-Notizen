@@ -20,6 +20,6 @@
   * to cause; to create
 * [ ] verbinden / verbindend / verbunden
   * to connect; to join
-* [ ] 
-
+* [ ] veröffentlichen / veröffentlichend / veröffentlicht
+  * to publish; to release; to post
 
