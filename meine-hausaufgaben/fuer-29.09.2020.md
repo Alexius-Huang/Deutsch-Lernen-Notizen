@@ -6,9 +6,11 @@
 >
 > \[100-300 Wörter\]
 
-Meine Familie hat eine Kindergeburtstagsfeiern für die Tochter meiner Schwester. Wir haben ein großer Schokolade Erdbeere Eiskuchen. Meine Eltern, meine Schwester und ihr Mann gekommen zu Besuch. Ich schenke ihr ein weißes Kaninchenkissen und meine Schwester schenkt ihr ein buntes Buch über süße kleine Tiere.
+Meine Familie hat eine Kindergeburtstagsfeiern für die Tochter meiner Schwester. Meine Eltern, Schwester und ihr Mann gekommen zu Besuch.
 
-TBD...
+Wir haben ein großer Schokolade Erdbeere Eiskuchen gegessen und  Geburtstagsgeschenke für sie vorbereitet. Ich schenke ihr ein weißes pelziges Kaninchenkissen; meine Schwester schenkt ihr ein buntes Buch über süße kleine Tiere. Nach der Kindergeburtstagsfeiern gehen sie, meine Schwester mit ihr Mann und ihr Tochter, ins Kino.
+
+Ich denke es, dass der Eiskuchen, der der sehr gut schmeckt, obwohl der zu süß für mich ist, das beste an der Feier ist. Auf der anderen Seite, wegen meines Job von Nachmittag bis Nacht in Taiwan, konnte nicht mit ihnen ins Kino ging.
 
 ### Vokabular
 
@@ -22,7 +24,7 @@ TBD...
 >
 > \[100-300 Wörter\]
 
-
+Wenn ich meine Freundin Gerburtstag vergessen, könnte ich sich bei ihr zuerst entschuldige. 
 
 ## Aufgabe 3.
 

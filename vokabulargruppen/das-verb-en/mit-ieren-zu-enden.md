@@ -23,4 +23,8 @@ description: End with -ieren
 * interess**ieren** - interest; cared about
 * [ ] storn**ieren** - cancel; revert
 * explod**ieren** - explode; detonate
+* mark**ieren** - mark
+* rezit**ieren** - to recite
+* aktiv**ieren** - activate; enable
+* funktion**ieren** - function
 

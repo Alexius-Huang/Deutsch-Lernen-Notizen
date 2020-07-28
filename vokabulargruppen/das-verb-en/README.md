@@ -10,6 +10,9 @@
   * to find
 * [x] löschen / löschend / gelöscht
   * to delete
+* [ ] machen / machend / gemacht
+  * to do
+  * [ ] **wiedergut**machen / machen **wiedergut** \(make up\)
 * [ ] beißen / beißend / gebissen
   * to bite
 * [ ] fügen / fügend / gefügt
@@ -44,7 +47,12 @@
 * [ ] sprengen / sprengend / gesprengt
   * blow up; explode
 * [ ] entfernen / entfernend / entfernt
-  * to remove; delete 
-
-
+  * to remove; delete
+* [ ] erreichen / erreichend / erreicht
+  * to reach; achieve
+* [ ] steigen / steigend / gest**ie**gen
+  * to rise; climb; get off
+  * [ ] **auf**steigen; steigen **auf** \(ascend\)
+* [ ] schauen / schauend / geschaut
+  * to watch \(movie\); see
 
