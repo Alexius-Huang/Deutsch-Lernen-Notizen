@@ -12,7 +12,7 @@ description: Nature
 * [ ] das Meer / -e
 * [ ] der Ozean / -e
 * [x] das Wasser / -
-* [ ] das Feuer / Feuer
+* [x] das Feuer / -
 * [ ] die Luft / Lüfte
 * [ ] der Himmel \(s.\)
 * [ ] die Sonne / -n
@@ -21,9 +21,9 @@ description: Nature
 ## die Zeit / -en \(time\)
 
 * [x] der Tag / -e
-  * [x] der Morgen / -
-  * [x] der Abend / -e
-  * [x] die Nacht / -e
+  * der Morgen / -
+  * der Abend / -e
+  * die Nacht / -e
 * [ ] die Woche / -n
   * [x] Montag
   * [x] Dienstag

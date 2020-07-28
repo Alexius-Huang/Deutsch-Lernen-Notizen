@@ -13,7 +13,8 @@
 
 ## Vokabulargruppen
 
-* [Das Verb / -en](vokabulargruppen/das-verb-en.md)
+* [Das Verb / -en](vokabulargruppen/das-verb-en/README.md)
+  * [Mit -ieren zu enden](vokabulargruppen/das-verb-en/mit-ieren-zu-enden.md)
 * [Die Kleidung \(s.\)](vokabulargruppen/die-kleidung.md)
 * [Der Körper / -](vokabulargruppen/der-koerper.md)
 * [Das Tier / -e](vokabulargruppen/das-tier-e.md)
@@ -21,5 +22,6 @@
 
 ## Meine Hausaufgaben
 
+* [Für 29.09.2020](meine-hausaufgaben/fuer-29.09.2020.md)
 * [Für 11.07.2020](meine-hausaufgaben/fuer-11.07.2020.md)
 
