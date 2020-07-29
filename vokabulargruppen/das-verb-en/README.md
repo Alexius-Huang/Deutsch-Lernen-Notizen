@@ -41,8 +41,7 @@
   * to publish; to release; to post
 * [ ] brüten / brütend / gebrütet
   * to breed; nest
-* [ ] springen / springend / gesprungen
-  * to jump; skip; leap
+* [ ] springen / springend / gesprungen \(to jump; skip; leap\)
   * [x] **über**springen \(to skip\)
 * [ ] sprengen / sprengend / gesprengt
   * blow up; explode
@@ -50,9 +49,14 @@
   * to remove; delete
 * [ ] erreichen / erreichend / erreicht
   * to reach; achieve
-* [ ] steigen / steigend / gest**ie**gen
-  * to rise; climb; get off
+* [ ] steigen / steigend / gest**ie**gen \(to rise; climb; get off\)
   * [ ] **auf**steigen; steigen **auf** \(ascend\)
-* [ ] schauen / schauend / geschaut
-  * to watch \(movie\); see
+* [ ] schauen / schauend / geschaut \(to watch \(movie\); see\)
+* [ ] setzen / setzend / gesetzt \(to set; to put\)
+  * [ ] besetzen \(occupy; fill\)
+* [ ] verzerren / verzerrend / verzerrt \(distort / skew\)
+* [ ] zerstören / zerstörend / zerstört \(destroy / destruct\)
+* [ ] hängen
+  * [ ] **ab**hängen; hängen **ab** \(depend on\)
+* [ ] entwickeln / entwickelnd / entwickelt \(to develop\)
 

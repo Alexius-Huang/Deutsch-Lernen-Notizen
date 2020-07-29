@@ -19,6 +19,9 @@
 * [Der Körper / -](vokabulargruppen/der-koerper.md)
 * [Das Tier / -e](vokabulargruppen/das-tier-e.md)
 * [Die Natur / -en](vokabulargruppen/die-natur-en.md)
+* [Der Ort / -e](vokabulargruppen/der-ort-e.md)
+* [Der Sport / -e](vokabulargruppen/der-sport-e.md)
+* [Der Beruf / -e](vokabulargruppen/der-beruf-e.md)
 
 ## Meine Hausaufgaben
 

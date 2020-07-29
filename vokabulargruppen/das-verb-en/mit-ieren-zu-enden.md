@@ -27,4 +27,5 @@ description: End with -ieren
 * rezit**ieren** - to recite
 * aktiv**ieren** - activate; enable
 * funktion**ieren** - function
+* repar**ieren** - repair
 
