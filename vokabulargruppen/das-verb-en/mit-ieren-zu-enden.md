@@ -28,4 +28,5 @@ description: End with -ieren
 * aktiv**ieren** - activate; enable
 * funktion**ieren** - function
 * repar**ieren** - repair
+* engag**ieren** - engage; to commit; get involved in
 

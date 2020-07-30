@@ -6,7 +6,7 @@ description: Animal
 
 ## der Tierkreis / -e
 
-* [ ] die Maus / Mäuse
+* [x] die Maus / Mäuse
 * [x] die Kuh / Kühe
 * [x] der Tiger / -
 * [ ] der Hase / -n

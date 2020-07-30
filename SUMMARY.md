@@ -15,6 +15,9 @@
 
 * [Das Verb / -en](vokabulargruppen/das-verb-en/README.md)
   * [Mit -ieren zu enden](vokabulargruppen/das-verb-en/mit-ieren-zu-enden.md)
+  * [Mit -eln zu enden](vokabulargruppen/das-verb-en/mit-eln-zu-enden.md)
+  * [Mit -ern zu enden](vokabulargruppen/das-verb-en/mit-ern-zu-enden.md)
+* [Das Adjektiv / -e oder das Adverb / Adverbien](vokabulargruppen/das-adjektiv-e-oder-das-adverb-adverbien.md)
 * [Die Kleidung \(s.\)](vokabulargruppen/die-kleidung.md)
 * [Der Körper / -](vokabulargruppen/der-koerper.md)
 * [Das Tier / -e](vokabulargruppen/das-tier-e.md)
@@ -22,6 +25,7 @@
 * [Der Ort / -e](vokabulargruppen/der-ort-e.md)
 * [Der Sport / -e](vokabulargruppen/der-sport-e.md)
 * [Der Beruf / -e](vokabulargruppen/der-beruf-e.md)
+* [Die Waffe / -n und Die Rüstung / -en](vokabulargruppen/die-waffe-n-und-die-ruestung-en.md)
 
 ## Meine Hausaufgaben
 
