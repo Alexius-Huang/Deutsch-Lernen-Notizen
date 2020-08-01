@@ -13,4 +13,6 @@
   * Partizip II: **ge**gabelt
 * [ ] handeln - act; take action
   * Partizip II: **ge**handelt
+* [ ] sammeln - collect; gather
+  * Partizip II: **ge**sammelt
 

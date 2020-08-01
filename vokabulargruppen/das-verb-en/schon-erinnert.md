@@ -6,6 +6,8 @@ description: Already memorized
 
 * arbeiten / arbeitend / gearbeitet
   * **be**arbeiten
+* bereiten / bereiten / bereitet \(prepare; put; cause \(problem\)\)
+  * **vor**bereiten; bereiten **vor** \(prepare; prep \(sth. physical\)\)
 * bohren / bohrend / gebohrt
   * **durch**bohren; bohren **durch**
 * kommen / kommend / **ge**kommen

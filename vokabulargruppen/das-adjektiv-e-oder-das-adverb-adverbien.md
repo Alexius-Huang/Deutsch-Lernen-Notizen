@@ -21,7 +21,7 @@ description: Adjective comparative forms
 * dünn
 * gefährlich \(+ keit _f._\)
 
-### Mit -ß/-t Endung
+### Mit -ß/-t am Ende
 
 | Positiv | Comparativ | Superlativ |
 | :--- | :--- | :--- |

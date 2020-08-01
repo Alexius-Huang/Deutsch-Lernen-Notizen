@@ -34,8 +34,10 @@
 * [ ] steigen / steigend / gest**ie**gen \(to rise; climb; get off\)
   * [ ] **auf**steigen; steigen **auf** \(ascend\)
 * [x] schauen / schauend / geschaut \(to watch \(movie\); see\)
+* [ ] sitzen / sitzend / **gesessen** \(sit\)
+  * [ ] **be**sitzen \(possessl; own\)
 * [ ] setzen / setzend / gesetzt \(to set; to put\)
-  * [ ] besetzen \(occupy; fill\)
+  * [ ] **be**setzen \(occupy; fill\)
 * [ ] verzerren / verzerrend / verzerrt \(distort / skew\)
 * [ ] zerstören / zerstörend / zerstört \(destroy / destruct\)
 * [ ] hängen
@@ -78,4 +80,30 @@
   * **an**melden; melden **an** \(register; log in\)
 * [ ] loggen / loggend / geloggt \(log in; sign in\)
   * [ ] ausloggen; loggen aus \(log out\)
+* nehmen / nehmend / genommen \(take; make; use\)
+  * [ ] **weg**nehmen; nehmen **weg** \(take away\)
+  * [ ] **an**nehmen; nehmen **an** \(accept\)
+* [ ] drucked / druckend / gedruckt \(print\)
+* [ ] locken / lockend / gelockt \(attract; lure; entice\)
+  * [ ] **an**locken; locken **an** \(attarct; bait\)
+* [ ] wachen / wachend / gewacht \(wake; watch\)
+  * [ ] **auf**wachen; wachen **auf** \(awaken; wake up\)
+* [ ] schlafen / schlafend / schlafen
+  * Conjugation: schl**\[a\|ä\]**f \[-e / -st / -t / -en / -t / -en\]
+  * [ ] **ver**schlafen \(oversleep\)
+* [ ] reiten / reitend / geritten \(ride\)
+
+
+
+Treffen oder tretten?
+
+* [ ] treffen / treffend / getroffen \(meet; take; hit\)
+  * Conjugation: tr**\[e\|i\]**ff \[-e / -st / -t / -en / -t / -en\]
+  * [ ] **ein**treffen / treffen **ein** \(arrive; occur\)
+  * [ ] **auf**treffen / treffen **auf** \(impact; hit\)
+* [ ] treten / tretend / **ge**treten \(kick; enter; step\)
+
+  * Conjugation: tr**\[e\|i\]**t \[-e / -st / -t / -en / -t / -en\]
+  * [ ] **ein**treten / treten **ein** \(happen; occur; enter\)
+  * [ ] **auf**treten / treten **auf** \(appear; arise\)
 
