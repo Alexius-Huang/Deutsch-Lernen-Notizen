@@ -34,4 +34,5 @@ description: End with -ieren
 * organis**ieren** - organize
 * telefon**ieren** - telephone sb.; call sb.
 * pass**ieren** - occure; happen
+* konjug**ieren** - conjugate
 

@@ -10,26 +10,26 @@ description: Modal verbs
    * Keine Vergangenheit, benutz bitte "**wollten**"
 2. **wollen** \(want\)
    * Conjugation: \[will / willst / will / -en / -t / -en\]
-   * Vergangenheit: **wollten**
+   * Vergangenheit: **wollten \(wanted to\)**
 3. **können** \(can; be able to\)
    * Conjugation: \[kann / kannst / kann / -en / -t / -en\]
-   * Vergangenheit: **konnten**
+   * Vergangenheit: **konnten \(could\)**
 4. **dürfen** \(allow to; may\)
    * Conjugation: \[darf / darfst / darf / -en / -t / -en\]
-   * Vergangenheit: **durften**
+   * Vergangenheit: **durften \(were allowed to\)**
 5. **brauchen** \(need to; require to\)
-   * Vergangenheit: **brauchten**
+   * Vergangenheit: **brauchten \(needed\)**
 6. **müssen** \(must; have to\)
    * Conjugation: \[muss / musst / muss / -en / -t / -en\]
-   * Vergangenheit: **mussten**
+   * Vergangenheit: **mussten \(had to\)**
 7. **sollen** \(have to\) \(harsher than "sollten"\)
    * Conjugation: \[soll / -st / soll / -en / -t / -en\]
-   * Vergangenheit: **sollten**
+   * Vergangenheit: **sollten \(be supposed to\)**
 8. **sollten** \(should\) \(advise; recommend\) 
    * Also the past tense of "sollen"
 9. **werden** \(will \(**used in Future tense**\); become \(present tense\)\)
    * Conjugation: \[-e / **wirst** / **wird** / -en / -et / -en\]
-   * Vergangenheit: **wurden**
+   * Vergangenheit: **wurden \(would; were\)**
 
 ## Benutzt mit einem Infinitiv des Verbs
 
