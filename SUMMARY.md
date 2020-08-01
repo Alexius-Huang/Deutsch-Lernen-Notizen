@@ -14,6 +14,7 @@
 ## Vokabulargruppen
 
 * [Das Verb / -en](vokabulargruppen/das-verb-en/README.md)
+  * [Schon Erinnert](vokabulargruppen/das-verb-en/schon-erinnert.md)
   * [Mit -ieren zu enden](vokabulargruppen/das-verb-en/mit-ieren-zu-enden.md)
   * [Mit -eln zu enden](vokabulargruppen/das-verb-en/mit-eln-zu-enden.md)
   * [Mit -ern zu enden](vokabulargruppen/das-verb-en/mit-ern-zu-enden.md)

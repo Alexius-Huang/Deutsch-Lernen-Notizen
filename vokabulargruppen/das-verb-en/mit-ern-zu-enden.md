@@ -8,9 +8,9 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | -er**e** | -er**st** | -er**t** | -ern | -er**t** | -ern |
 
-* [ ] speichern - save; store; retain
-  * Partizip II: **ge**speichert
 * erinnern - remember; remind; recall
 * feiern - celebrate; party; commemorate
   * Partizip II: **ge**feiert
+* [ ] speichern - save; store; retain
+  * Partizip II: **ge**speichert
 

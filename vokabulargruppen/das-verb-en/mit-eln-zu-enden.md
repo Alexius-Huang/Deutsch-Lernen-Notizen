@@ -9,8 +9,8 @@
 | -**le** | -el**st** | -el**t** | -eln | -el**t** | -eln |
 
 * entwickeln - to develop
-* [ ] handeln - act; take action
-  * Partizip II: **ge**handelt
 * [ ] gabeln - fork
   * Partizip II: **ge**gabelt
+* [ ] handeln - act; take action
+  * Partizip II: **ge**handelt
 

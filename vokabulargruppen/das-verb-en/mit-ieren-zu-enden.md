@@ -8,15 +8,18 @@ description: End with -ieren
 | :--- | :--- | :--- |
 | -ieren | -ieren**d** | -ier**t** |
 
-* train**ieren** - exercise; train
-* medit**ieren** - meditate
+* add**ieren** - add up; sum up
+* aktiv**ieren** - activate; enable
 * infiz**ieren** - infect
 * infiltr**ieren** - infiltrate
+* kritis**ieren** - criticize
+* medit**ieren** - meditate
 * produz**ieren** - produce
+* train**ieren** - exercise; train
 * [ ] gener**ieren** - generate; create
 * inform**ieren** - inform; notify
 * diskrimin**ieren** - discriminate
-* add**ieren** - add up; sum up
+* diskut**ieren** - discuss
 * not**ieren** - note; record
 * notifiz**ieren** - notify
 * kommuniz**ieren** - communicate
@@ -24,9 +27,10 @@ description: End with -ieren
 * [ ] storn**ieren** - cancel; revert
 * explod**ieren** - explode; detonate
 * mark**ieren** - mark
-* rezit**ieren** - to recite
-* aktiv**ieren** - activate; enable
+* [ ] rezit**ieren** - to recite
 * funktion**ieren** - function
 * repar**ieren** - repair
 * engag**ieren** - engage; to commit; get involved in
+* organis**ieren** - organize
+* telefon**ieren** - telephone sb.; call sb.
 
