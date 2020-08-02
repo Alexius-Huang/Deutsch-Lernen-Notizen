@@ -33,6 +33,7 @@ description: End with -ieren
 * engag**ieren** - engage; to commit; get involved in
 * organis**ieren** - organize
 * telefon**ieren** - telephone sb.; call sb.
+* sort**ieren** - sort; reorder
 * pass**ieren** - occure; happen
 * konjug**ieren** - conjugate
 

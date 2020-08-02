@@ -34,6 +34,7 @@
 
 ## Meine Hausaufgaben
 
+* [Für 05.08.2020](meine-hausaufgaben/fuer-05.08.2020.md)
 * [Für 29.09.2020](meine-hausaufgaben/fuer-29.09.2020.md)
 * [Für 11.07.2020](meine-hausaufgaben/fuer-11.07.2020.md)
 

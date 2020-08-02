@@ -12,7 +12,7 @@ description: Animal
   * [ ] der Ochs\(e\) / -en\(-n\) \(ox\)
 * der Tiger / -
   * die Katze / -n
-  * [ ] das Kätzchen / - \(kitten\)
+  * das Kätzchen / - \(kitten\)
   * [ ] der Leopard / -en
   * der Löwe / -n
 * der Hase / -n

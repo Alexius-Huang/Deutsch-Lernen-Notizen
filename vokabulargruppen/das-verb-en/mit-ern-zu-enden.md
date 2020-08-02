@@ -11,6 +11,6 @@
 * erinnern - remember; remind; recall
 * feiern - celebrate; party; commemorate
   * Partizip II: **ge**feiert
-* [ ] speichern - save; store; retain
+* speichern - save; store; retain
   * Partizip II: **ge**speichert
 

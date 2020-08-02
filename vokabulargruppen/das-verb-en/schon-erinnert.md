@@ -6,6 +6,7 @@ description: Already memorized
 
 * arbeiten / arbeitend / gearbeitet
   * **be**arbeiten
+  * [ ] **ver**arbeiten \(process; work\)
 * bereiten / bereiten / bereitet \(prepare; put; cause \(problem\)\)
   * **vor**bereiten; bereiten **vor** \(prepare; prep \(sth. physical\)\)
 * bohren / bohrend / gebohrt
@@ -13,7 +14,7 @@ description: Already memorized
 * kommen / kommend / **ge**kommen
   * **be**kommen \(to receive; to get\)
   * [ ] **an**kommen; kommen **an** \(to arrive; to reach\)
-  * [ ] **um**kommen; kommen **um** \(to die\)
+  * **um**kommen; kommen **um** \(to die\)
   * [ ] **aus**kommen; kommen **aus** \(+ mit\) \(to get along with sb. well\)
 * finden / findend / **ge**f**u**nden
 * löschen / löschend / **ge**lösch**t**
@@ -23,7 +24,8 @@ description: Already memorized
 * öffnen; öffnend; geöffnet
 * ordnen / ordnend / geordnet
 * veröffentlichen / veröffentlichend / veröffentlicht
-* verbinden / verbindend / verbunden 
+* verbinden / verbindend / verbunden
+* schauen / schauend / geschaut \(see; watch film\)
 * schenken / schenkend / **ge**schenk**t** \(give; grant donate\)
 * schicken / schickend / **ge**schick**t** \(send \(email\); mail; submit\)
 * senden / sendend / **ge**sendet \(send; transmit \(waves; signals\)\)
