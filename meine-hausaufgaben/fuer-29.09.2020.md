@@ -26,9 +26,11 @@ Auf der anderer Seite konnte ich nicht mit ihn**en** ins Kino gehen, weil ich we
 >
 > \[100-300 Wörter\]
 
-Wenn ich meine Freundin Gerburtstag vergessen, könnte ich sich bei ihr zuerst entschuldige. Ich könnte ihre am liebsten Lebensmittel kaufen oder zubereiten.
+Wenn ich meine Freundin Gerburtstag vergess_e_, könnte ich **m**ich **zuerst** bei ihr entschuldigen. Ich könnte ihre ~~am liebsten Lebensmittel~~ **Lieblings**lebensmittel kaufen oder zubereiten. \(sich bei etwas entschuldigen\)
 
-Es würde auch möglich, dass wir beschäftigt waren, sodass wir unseren Geburtstag vergessen. Daher sollten wir unsere verfügbare Zeit, die wir zusammen verbringen konnten, finden. Es ist auch besser, ihr liebster Ort zu besuchen, zum Beispiel ins Theater einer Horrerfilm oder romantischer Aktionfilm zu schauen, in die Kegelbahn das Bowling zu spielen, mit unserer Freunde die Songs zu singen und zu dem Strand zu besuchen und zu spielen.
+Es würde auch möglich, dass wir beschäftigt waren, sodass wir unseren Geburtstag vergessen. ~~Daher sollten wir unsere verfügbare Zeit, die wir zusammen verbringen konnten, finden.~~ **Daher sollten wir Zeit finden, die wir zusammen verbringen können**.
+
+Es ist auch besser, ihr Lieblingsort zu besuchen, zum Beispiel ins Theater einer Horrerfilm oder Aktionfilm zu schauen, in die Kegelbahn das Bowling zu spielen, mit unserer Freunde die Songs zu singen, zu dem Strand zu besuchen und zu spielen. \(Aber kein Animal Crossing zu spielen, weil wir das jeden Tag spielen!\)
 
 Ich kann auch einen Brief zu ihr darüber schreiben, dass sie zu mir wichtig ist, und ich sie über unserer guter Zeit erinnern.
 
@@ -46,13 +48,13 @@ Ich kann auch einen Brief zu ihr darüber schreiben, dass sie zu mir wichtig ist
 >
 > \[150-500 Wörter\]
 
-Ich denke es, dass am meistens Zeit man nicht sich jedes Jahr ein neues Smartphone kaufen brauchen, weil je neues Smartphone ist, desto teuer ist, zum Beispiel CP Wert IPhone schlechter ist jedes Jahr. Meiner Meinung nach Tim Cook, Vorsizender von Apple, ist nicht so gut darauf, neue aufregend Funktion des Smartphone zu entwerfen und veröffenlichen.
+Ich denke es, dass man sich am meistens Zeit nicht jedes Jahr ein neues Smartphone kaufen brauchen, weil je neues Smartphone ist, desto teuer ist, zum Beispiel CP Wert IPhone schlechter ist jedes Jahr. Meiner Meinung nach Tim Cook, Vorsizender von Apple, ist nicht so gut darauf, neue aufregend Funktion des Smartphone zu entwerfen und veröffenlichen.
 
 Smartphone ist auch nicht so gut für Menschen, weil sie viele Zeit besetzen. Menschen benutze oft Smartphone für sozialen Medien, Handyspielen und mehr Songs, die die durch Benutzer von Tiktok zerstören, zu hören.
 
-Aber braucht man jedes Jahr ein neues Smartphone nur, wenn man mobiler Applikation Ingenieur ist, weil Smartphones vom verschiedener Anwendungsplattform, der der Andriod und Apple sind, verschiedenen Spekulationen haben, und weil die Systemversion jedes Smartphone sich unterschiedet, sodass Ingenieure vom spezifischem Smartphonestyp anhängen, dass sie viele Methoden dafür, mobile Applikationen zu entwickeln und zu testen.
+Man braucht aber jedes Jahr ein neues Smartphone nur, wenn man mobiler Applikation Ingenieur ist, weil Smartphones vom verschiedener Anwendungsplattform, der der Andriod und Apple sind, verschiedenen Spekulationen haben, und weil die Systemversion jedes Smartphone sich unterschiedet, sodass Ingenieure vom spezifischem Smartphonestyp anhängen, dass sie viele Methoden dafür, mobile Applikationen zu entwickeln und zu testen.
 
-Ein rares Beispiel wurde sein, dass der Beruf, der die Geheimhaltung benötigen, der zum Beispiel Spione, Hacker, Journalist oder geheimer Ermittler, viele Smartphone kaufen wurden, weil man meherer Identitäten haben kann und man die digitale Spur verstecken kann, wenn man ein Smartphone verlassen oder zerstören.
+Ein rares Beispiel wurde sein, dass der Beruf, der die Geheimhaltung benötigen, der zum Beispiel Spione, Hacker, Journalist oder Hinweisgeber, viele Smartphone kaufen wurden, weil man meherer Identitäten haben kann und man die digitale Spur verstecken kann, wenn man ein Smartphone verlassen oder zerstören.
 
 Zum Schluss konntest du jedes Jahr neuen Smartphones kaufen, wenn du mehr Geld verdienen konntest und wenn du Spaß haben wollest, sodass du mit vielen Smartphones PokemonGo spielen konntest oder du deinen Freunde mit deinen fabelhaften wunderschönen neuen Smartphones prahlen konntest.
 
@@ -61,6 +63,7 @@ Zum Schluss konntest du jedes Jahr neuen Smartphones kaufen, wenn du mehr Geld v
 * die Applikation / -en
 * der Wert / -e \(value; worth\)
 * etwas zerstören durch - destroy something
+* verschieden - different
 * von etwas abhängen - depend on something
 * die Geheimhaltung \(s.\) - secrecy
 

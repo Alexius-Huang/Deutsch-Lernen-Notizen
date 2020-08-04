@@ -66,6 +66,7 @@
   * [ ] **vor**stellen; stellen **vor** \(introduce; imagine\)
   * [ ] **ein**stellen; stellen **ein** \(hire; set; adjust\)
 * [x] schließen; schließend; **ge**schlossen \(close; conclude\)
+  * [ ] **aus**shließen; schließen **aus** \(exclude; rule out; preclude\)
 * [ ] schelten; scheltend; **ge**scholten \(scold; berate; criticize\)
 
 ### Gruppe IV
@@ -103,6 +104,9 @@
 * [ ] erzählen / erzählend / erzählt \(narrate; talk about\)
 * gehen / gehend / gegangen
   * [ ] **mit**gehen; gehen **mit** \(go with; go along\)
+* kennen / kennend / gekannt \(know; understand\)
+  * [ ] **er**kennen \(Partizip II: erkannt\) \(recognize\)
+  * [ ] **an**erkennen; erkennen **an** \(Partizip II: anerkannt\) \(recognize; acknowledge\)
 
 
 

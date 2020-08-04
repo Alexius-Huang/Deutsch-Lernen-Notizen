@@ -7,6 +7,8 @@ description: Already memorized
 * arbeiten / arbeitend / gearbeitet
   * **be**arbeiten
   * [ ] **ver**arbeiten \(process; work\)
+  * [ ] **auf**arbeiten; arbeiten **auf** \(work on; work through\)
+  * [ ] **zusammen**arbeiten; arbeiten **zusammen** \(work together\)
 * bereiten / bereiten / bereitet \(prepare; put; cause \(problem\)\)
   * **vor**bereiten; bereiten **vor** \(prepare; prep \(sth. physical\)\)
 * bohren / bohrend / gebohrt
