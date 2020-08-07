@@ -107,6 +107,12 @@
 * kennen / kennend / gekannt \(know; understand\)
   * [ ] **er**kennen \(Partizip II: erkannt\) \(recognize\)
   * [ ] **an**erkennen; erkennen **an** \(Partizip II: anerkannt\) \(recognize; acknowledge\)
+* [ ] werben / werbend / geworben \(advertise; promote\)
+* [ ] werken / werkend / gewerkt \(work\)
+* [ ] werten / wertend / gewertet \(evaluate; analyse\)
+* [ ] wertschätzen / wertschätzend / wertschätzt \(cherish; value; appreciate\)
+* [ ] decken / deckend / gedeckt \(cover; meet; satisfy\)
+  * [ ] **ab**decken; decken **ab** \(cover; include; emcompass\)
 
 
 
