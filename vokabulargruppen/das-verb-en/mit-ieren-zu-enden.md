@@ -36,4 +36,5 @@ description: End with -ieren
 * sort**ieren** - sort; reorder
 * pass**ieren** - occure; happen
 * konjug**ieren** - conjugate
+* [ ] recherch**ieren** - research; investigate
 

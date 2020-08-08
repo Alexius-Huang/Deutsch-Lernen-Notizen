@@ -5,25 +5,25 @@
 ### krabbeln \(crawl\)
 
 * Die Höhle ist klein, dass wir durch sie krabbeln müssen.
-
+* 
 ### etwas verbreiten \(spread sth.\)
 
 * Man trägt die Maske, ohne vollständig die Nase und den Mund zu abdecken, könnte nicht verhindern, Virus zu verbreiten.
+* Mehr falsche Informationen werden im Internet verbritten, dass sie Menschen einflußen.
 
 ### zu etwas fähig sein \(to be able to do sth.\)
 
 * Die meisten Studenten sind dazu fähig, von den Theorien zu lernen, aber die können nicht leicht die Theorien benutzen.
+* Ich bin nicht dazu fähig, mich um das Baby kümmern.
 
 ### verschwenden \(waste\)
 
 * Ich habe die ganze Zeit, die die für dem Fehler des Programm zu reparieren, verschwendet.
-
-### ziehen \(pull\)
-
+* 
 ### entfernen \(remove\)
 
 * Nach habe ich vorherige Arbeit verlassen, hat der Manager mein Gmail Arbeitskonto entfernt.
-
+* 
 ### angreifen; greifen an \(attack\)
 
 * Die Katze greift mich an, weil ich liebe, ihren Schwanz zu ziehen.
@@ -32,27 +32,48 @@
 ### fast \(almost\)
 
 * Das Update von Windows 10 scheißt, weil es lädt fast hundert Prozent herunter, aber es immer sehr lang an neunundneunzig Prozent stecken.
-
+* 
 ### betreffen \(affect\)
 
+* * 
 ### berichten \(report; tell; inform\)
 
+* Deutsche Institut in Taipeh berichtet mir meine Visumbeantragung, dass sie mehr Dokumente benötigen.
+* 
 ### umfangreich \(extensive; large scale\)
 
+* Eine umfangreiche Explosion passiert in Beirut, dass meindestens hundert Menschen töten.
+* 
 ### verletzen \(hurt; harm\) \(sich verletzen - hurt itself\)
+
+* Die Katze verletzt ihr Meisterin, weil die Nägel der Katze sharf sind.
+* Die Hund des Polizist_en\(?\)_ habe den Dief verletzt, weil der Dief die Tasche einer Frau stiehlt.
 
 ### entdecken \(discover; explore\)
 
+* Das schwarzes Loch wurde vom mathematischem Model von Einstein vorhersagt und von Karl Schwarzschild entdeckt.
+* Der Impfstoff wurde die Forscher der Welt recherchieren, aber der nicht entdeckt hat.
+
 ### werben \(advertise; promote\)
+
+* Ich bin wütend darauf, Schlechte Mobilespielen werben überall in Facebook.
+* Animal Crossing hat um die Welt geworben, dass meine Freunde jeden Tag vom Morgen bis die Nacht spielen.
 
 ### öffentlich \(public\)
 
+* Nachdem der Mann hat öffentlich nackt in die Straße gelaufen, würde er die Polizisten verfolgt/gejagt\(????\).
+* Ich sehe einen Mann, der der öffentlich die Rede hält, der der mein Freund ist.
+
 #### Vokabeln
 
-* vollständig - completel
+* vollständig - completely
 * abdecken - cover; include; encompass
 * der Schwanz / Schwänze
 * schrecklich - horrible
+* der Impfstoff / -e - vaccine
+* der Nagel / Nägel
+* verfolgen - pursue; follow
+* jagen - chase; hunt down
 
 
 
