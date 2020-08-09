@@ -9,9 +9,13 @@
   * Wir sind ca. 9400km voneinander entfernt.
 * zu fähig etwas sein \(to be able to do sth.\)
 * Zeit zu etwas verschwenden \(waste time for sth.\)
+* für etwas halten \(to consider as ...\)
 
 ## Grammatic Phrases
 
+* aber + Satz \(but ...\)
+* dass + Nebensatz \(that ...\)
+* weil + Nebensatz \(because ...\)
 * um + zu-Infinitiv \(in order to ...\)
 * ohne + zu-Infinitiv \(without ...\)
 * damit + Nebensatz \(\[with purpose\] so that ...\)

@@ -25,22 +25,22 @@
 ### entfernen \(remove\)
 
 * Nach**dem** ich **die** vorherige Arbeit verlassen **habe**, hat der Manager mein Gmail**-**Arbeitskonto entfernt.
-* 
+
 ### angreifen; greifen an \(attack\)
 
-* Die Katze greift mich an, weil ich liebe, ihren Schwanz zu ziehen.
-* Das Pommern ist süß und klein, aber es ist schrecklich, wenn es mich bellet und angreift.
+* Die Katze greift mich an, weil ich **es** liebe, **an ihrem** Schwanz zu ziehen.
+* Der Zwergspitz \(Pomeranian\) ist süß und klein, aber **er** ist schrecklich, wenn **er** mich **an**bellet und angreift.
 
 ### fast \(almost\)
 
-* Das Update von Windows 10 scheißt, weil es lädt fast hundert Prozent herunter, aber es immer sehr lang an neunundneunzig Prozent stecken.
+* Das Update von Windows 10 ist schlecht, weil es ~~lädt~~ fast hundert Prozent _herunterlädt_, aber es **dann** immer sehr lang**e** **bei** neunundneunzig Prozent stecken**bleibt / stoppt / anhält**.
 * 
 ### betreffen \(affect\)
 
 * * 
 ### berichten \(report; tell; inform\)
 
-* Deutsche Institut in Taipeh berichtet mir meine Visumbeantragung, dass sie mehr Dokumente benötigen.
+* **Das** Deutsche Institut in Taipeh ~~berichtet~~ informier**te** **mich,** ~~meine Visumbeantragung, dass sie mehr Dokumente benötigen.~~ dass sie für meine Visumbeantragung mehr Dokumente benötigen.
 * 
 ### umfangreich \(extensive; large scale\)
 

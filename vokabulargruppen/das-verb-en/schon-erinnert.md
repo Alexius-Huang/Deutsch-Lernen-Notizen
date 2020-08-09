@@ -21,6 +21,7 @@ description: Already memorized
   * [ ] **aus**kommen; kommen **aus** \(+ mit\) \(to get along with sb. well\)
 * entfernen / entfernend / entfernt \(to remove; delete\)
 * finden / findend / **ge**f**u**nden
+* laufen / laufend / **ge**laufen sein 
 * löschen / löschend / **ge**lösch**t**
 * leben / lebend / **ge**lebt
   * **über**leben
@@ -37,4 +38,5 @@ description: Already memorized
 * suchen / suchend / gesucht \(search \(on Internet\); seek; look\)
 * springen / springend / gesprungen
   * **über**springen
+* stoppen / stoppend / gest**o**ppt \(stop; end\)
 

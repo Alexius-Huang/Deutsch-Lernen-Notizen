@@ -18,6 +18,7 @@ description: End with -ieren
 * train**ieren** - exercise; train
 * [ ] gener**ieren** - generate; create
 * inform**ieren** - inform; notify
+* ignor**ieren** - ignore; overlook; disregard
 * diskrimin**ieren** - discriminate
 * diskut**ieren** - discuss
 * not**ieren** - note; record

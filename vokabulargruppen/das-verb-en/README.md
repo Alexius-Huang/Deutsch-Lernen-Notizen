@@ -2,6 +2,8 @@
 
 ### Gruppe I
 
+* [ ] achten / achtend / geachtet \(pay attention to; respect; make sure\)
+  * [ ] **miss**achten \(Partizip II: missactet\) \(ignore; disregard; disobey\)
 * [ ] verursachen / verursachend / verursacht \(to cause; to create\)
 * [ ] brüten / brütend / gebrütet \(to breed; nest\)
 * [ ] sprengen / sprengend / gesprengt \(blow up; explode\)
@@ -22,8 +24,10 @@
 
     **3rd person singular do not end with -et**.
 
-  * **er**halten \(receive; get; obtain\)
-  * **unter**halten \(to entertain; to chat\)
+  * **er**halten \(Partizip II: erhalten\) \(receive; get; obtain\)
+  * **unter**halten \(Partizip II: unterhalten\) \(to entertain; to chat\)
+  * [ ] **an**halten; halten **an** \(stop; pause\)
+  * [ ] 
 
 ### Gruppe II
 
@@ -57,6 +61,7 @@
   * [ ] verstehen \(Partizip II: verstanden\) \(understand; see\)
 * [ ] warten; wartend; gewartet \(wait; await\)
 * [ ] stechen; stechend; gestochen \(stab; sting\)
+  * [ ] bestechen \(Partizip II: bestochen\) \(bribe; captivate; impress\)
 * [ ] stellen; stellend; gestellt \(ask?; put?; ensure?\)
   * [x] **er**stellen \(Partizip II: erstellt\) \(create; generate\)
   * [ ] **vor**stellen; stellen **vor** \(introduce; imagine\)
@@ -83,6 +88,7 @@
   * [ ] **weg**nehmen; nehmen **weg** \(take away\)
   * [ ] **an**nehmen; nehmen **an** \(accept\)
   * [ ] **aus**nehmen; nehmen **aus** \(exampt; exclude\)
+  * [ ] **unter**nehmen \(Partizip II: unternommen \| untergenommen\) \(undertake; corporate\)
 * [ ] drucken / druckend / gedruckt \(print\)
 * [ ] locken / lockend / gelockt \(attract; lure; entice\)
   * [ ] **an**locken; locken **an** \(attarct; bait\)
@@ -112,8 +118,37 @@
   * [ ] **ab**decken; decken **ab** \(cover; include; emcompass\)
 * [ ] ziehen / ziehend / gez**o**gen \(pull\)
   * [ ] **be**ziehen \(Partizip II: bez**o**gen\) \(refer; relate; obtain\)
+
+### Gruppe VI
+
 * [ ] wenden / wendend / gewandt \| gewendet \(turn; apply; please\)
   * [ ] **an**wenden; wenden **an** \(apply\)
+* [ ] bellen / bellend / gebellt \(bark; woof\)
+  * [ ] **an**bellen; bellen **an** \(bark at\)
+* [ ] greifen / greifend / gegriffen \(grab; reach; engage\)
+  * [ ] **an**greifen; greifen **an** \(attack; engage\)
+* [ ] **stecken**bleiben; bleiben **stecken** / steckenbleibend / steckengebleiben \(stuck at\)
+* [ ] richten / richtend / gerichtet \(direct; set up; judge\)
+  * [ ] **be**richten \(Partizip II: berichtet\) \(report; inform; tell\)
+  * **unter**richten \(Partizip II: unterrichtet\) \(teach; inform; notify\)
+* [ ] nötigen / nötigend / genötigt \(need; coerce; compel\)
+  * [ ] **be**nötigen \(Partizip II: benötigt\) \(require; need; want\)
+* [ ] bannen / bannen / gebannt \(banish; exorcise; avert\)
+  * [ ] **ver**bannen \(Partizip II: verbannt\) \(send sb. to exile\)
+* [ ] schmieren / schmierend / schmiert \(grease; lubricate; bribe\)
+* [ ] folgen / folgend / gefolgt \(follow; suceed; result\)
+  * [ ] **ver**folgen \(Partizip II: verfolgt\) \(track; pursue; follow\)
+* [ ] jagen / jagend / gejagt \(hunt; chase; hunt down\)
+  * [ ] **ver**jagen \(Partizip II: verjagt\) \(chase away; drive away\) 
+
+### Gruppe VII
+
+* [ ] gelten / geltend / gegolten \(to be valid; to be considered; apply\)
+* [ ] drohen / drohend / gedroht \(threaten; risk\)
+* [ ] lehren / lehrend / gelehrt \(teach; learn; instruct\)
+* [ ] verpflichten / verpflichtend / verpflichtet \(to oblige; to commit; to undertake\)
+* [ ] lehnen / lehnend / gelehnt \(sit; oppose; lean\)
+  * [ ] **ab**lehnen; lehnen **ab** \(refuse; decline\)
 
 
 
