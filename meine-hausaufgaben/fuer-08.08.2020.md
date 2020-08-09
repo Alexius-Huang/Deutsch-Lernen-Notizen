@@ -4,25 +4,27 @@
 
 ### krabbeln \(crawl\)
 
-* Die Höhle ist klein, dass wir durch sie krabbeln müssen.
-* 
+* Die Höhle ist klein, **so**dass wir durch sie krabbeln müssen.
+
 ### etwas verbreiten \(spread sth.\)
 
-* Man trägt die Maske, ohne vollständig die Nase und den Mund zu abdecken, könnte nicht verhindern, Virus zu verbreiten.
-* Mehr falsche Informationen werden im Internet verbritten, dass sie Menschen einflußen.
+* **Wenn** __man _eine_ Maske _trägt_, ohne vollständig die Nase und den Mund ab**zu**decken, **kann man** nicht verhindern, **das** Virus zu verbreiten.
+  * abdecken; decken ab + zu-Infinitiv --&gt; _abzudecken_
+* **Es werden** mehr falsche Informationen ~~werden~~ im Internet verbreitten, **so**dass sie Menschen einflußen.
 
 ### zu etwas fähig sein \(to be able to do sth.\)
 
-* Die meisten Studenten sind dazu fähig, von den Theorien zu lernen, aber die können nicht leicht die Theorien benutzen.
+* Die meisten Studenten sind dazu fähig, **die** Theorie zu lernen, aber **sie** können **diese** nicht leicht ~~die Theorien benutzen~~ anwenden.
 * Ich bin nicht dazu fähig, mich um das Baby kümmern.
 
 ### verschwenden \(waste\)
 
-* Ich habe die ganze Zeit, die die für dem Fehler des Programm zu reparieren, verschwendet.
-* 
+* ~~Ich habe die ganze Zeit, die die für dem Fehler des Programm zu reparieren, verschwendet.~~
+* Ich habe die gaze Zeit **dafür** verschwendet, die Fehler des Programm\(e\)s zu reparieren.
+
 ### entfernen \(remove\)
 
-* Nach habe ich vorherige Arbeit verlassen, hat der Manager mein Gmail Arbeitskonto entfernt.
+* Nach**dem** ich **die** vorherige Arbeit verlassen **habe**, hat der Manager mein Gmail**-**Arbeitskonto entfernt.
 * 
 ### angreifen; greifen an \(attack\)
 

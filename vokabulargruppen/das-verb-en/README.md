@@ -1,37 +1,33 @@
 # Das Verb / -en
 
-* kommen / kommend / **ge**kommen \(come\)
-  * **be**kommen \(to receive; to get\)
-  * [ ] **an**kommen; kommen **an** \(to arrive; to reach\)
-  * [ ] **um**kommen; kommen **um** \(to die\)
-  * [ ] **aus**kommen; kommen **aus** \(+ mit\) \(to get along with sb. well\)
-
 ### Gruppe I
 
 * [ ] verursachen / verursachend / verursacht \(to cause; to create\)
-* [ ] verbreiten / verbreitend / verbritten \(to spread; to distribute\)
 * [ ] brüten / brütend / gebrütet \(to breed; nest\)
 * [ ] sprengen / sprengend / gesprengt \(blow up; explode\)
-* [ ] entfernen / entfernend / entfernt \(to remove; delete\)
 * [ ] reichen / reichen / gereicht \(range; reach; submit\)
   * [ ] **er**reichen / erreichend / erreicht \(to reach; achieve\)
 * [ ] riechen / riechend / gerochen \(to smell\)
 * [ ] verlieren / verlierend / verloren \(to lose; to loose\)
 * [ ] **wiedergut**machen / machen **wiedergut** \(make up\)
-* [x] beißen / beißend / gebissen \(to bite\)
-* [ ] fügen / fügend / gefügt \(to add; paste; insert\)
+* [ ] fügen / fügend / gefügt \(to add; paste; insert \[fill in sth. in slot\]\)
+  * [ ] **sich** fügen \(to comply; to succumb itself \[inside a frame\]\)
   * [x] **hinzu**fügen \(add; attach; append\)
+  * [ ] **bei**fügen; fügen **bei** \(attach; add; include\)
+  * [ ] **an**fügen; fügen **an** \(attach; add; append\)
+  * [ ] **zusammen**fügen; fügen **zusammen** \(assemble; merge; combine\)
+  * [ ] **ver**fügen \(Partizip II: verfügt\) \(feature; offer; possess\)
 * [ ] halten / haltend / gehalten \(keep; maintain; hold \(an event\)\)
   * Conjugation: h**\[a\|ä\]**lt \[-e / -st / **x** / -en / -et / -en\]
 
     **3rd person singular do not end with -et**.
 
-  * [x] **er**halten \(receive; get; obtain\)
-  * [ ] **unter**halten \(to entertain; to chat\)
+  * **er**halten \(receive; get; obtain\)
+  * **unter**halten \(to entertain; to chat\)
 
 ### Gruppe II
 
-* [ ] steigen / steigend / gest**ie**gen \(to rise; climb; get off\)
+* [x] steigen / steigend / gest**ie**gen \(to rise; climb; get off\)
   * [ ] **auf**steigen; steigen **auf** \(ascend\)
 * [ ] sitzen / sitzend / **gesessen** \(sit\)
   * [ ] **be**sitzen \(possessl; own\)
@@ -73,6 +69,7 @@
 
 * [x] tragen / tragend / **ge**tragen \(wear; carry \(bags, etc\); bear\)
   * Conjugation: tr**\[a\|ä\]**g \[-e / -st / -t / -en / -t / -en\]
+  * [ ] **\(?\) be**tragen \(Partizip II: betragen\) \(exceed; behave; amount\)
   * [ ] **ein**tragen; tragen **ein** \(enter; register; fill out \(form\) \(s\)\)
   * [ ] **über**tragen \(Partizip II: übertragen\) \(transmit; broadcast\)
   * [ ] **aus**tragen; tragen **aus** \(unsubscribe; discharge\)
@@ -86,13 +83,13 @@
   * [ ] **weg**nehmen; nehmen **weg** \(take away\)
   * [ ] **an**nehmen; nehmen **an** \(accept\)
   * [ ] **aus**nehmen; nehmen **aus** \(exampt; exclude\)
-* [ ] drucked / druckend / gedruckt \(print\)
+* [ ] drucken / druckend / gedruckt \(print\)
 * [ ] locken / lockend / gelockt \(attract; lure; entice\)
   * [ ] **an**locken; locken **an** \(attarct; bait\)
 * [x] wachen / wachend / gewacht \(wake; watch\)
   * [ ] **auf**wachen; wachen **auf** \(awaken; wake up\)
   * [ ] **über**wachen \(monitor; supervise; check\)
-* [ ] schlafen / schlafend / schlafen
+* [ ] schlafen / schlafend / geschlafen
   * Conjugation: schl**\[a\|ä\]**f \[-e / -st / -t / -en / -t / -en\]
   * [ ] **ver**schlafen \(oversleep\)
 * [ ] reiten / reitend / geritten \(ride\)
@@ -107,12 +104,16 @@
 * kennen / kennend / gekannt \(know; understand\)
   * [ ] **er**kennen \(Partizip II: erkannt\) \(recognize\)
   * [ ] **an**erkennen; erkennen **an** \(Partizip II: anerkannt\) \(recognize; acknowledge\)
-* [ ] werben / werbend / geworben \(advertise; promote\)
+* [x] werben / werbend / geworben \(advertise; promote\)
 * [ ] werken / werkend / gewerkt \(work\)
 * [ ] werten / wertend / gewertet \(evaluate; analyse\)
 * [ ] wertschätzen / wertschätzend / wertschätzt \(cherish; value; appreciate\)
 * [ ] decken / deckend / gedeckt \(cover; meet; satisfy\)
   * [ ] **ab**decken; decken **ab** \(cover; include; emcompass\)
+* [ ] ziehen / ziehend / gez**o**gen \(pull\)
+  * [ ] **be**ziehen \(Partizip II: bez**o**gen\) \(refer; relate; obtain\)
+* [ ] wenden / wendend / gewandt \| gewendet \(turn; apply; please\)
+  * [ ] **an**wenden; wenden **an** \(apply\)
 
 
 
@@ -120,6 +121,7 @@ Treffen oder tretten?
 
 * [ ] treffen / treffend / getroffen \(meet; take; hit\)
   * Conjugation: tr**\[e\|i\]**ff \[-e / -st / -t / -en / -t / -en\]
+  * [ ] **be**treffen \(Partizip II: betroffen\) \(affect; relate; concern\)
   * [ ] **ein**treffen / treffen **ein** \(arrive; occur\)
   * [ ] **auf**treffen / treffen **auf** \(impact; hit\)
 * [ ] treten / tretend / **ge**treten \(kick; enter; step\)

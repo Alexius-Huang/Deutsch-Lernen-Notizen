@@ -37,4 +37,8 @@ description: End with -ieren
 * pass**ieren** - occure; happen
 * konjug**ieren** - conjugate
 * [ ] recherch**ieren** - research; investigate
+* korrig**ieren** - correct; fix; adjust
+* korrespond**ieren** - correspond; communicate
+* korrod**ieren** - corrode
+* korrel**ieren** - correlate
 
