@@ -66,7 +66,7 @@
   * [x] **er**stellen \(Partizip II: erstellt\) \(create; generate\)
   * [ ] **vor**stellen; stellen **vor** \(introduce; imagine\)
   * [ ] **ein**stellen; stellen **ein** \(hire; set; adjust\)
-* [x] schließen; schließend; **ge**schlossen \(close; conclude\)
+* schließen; schließend; **ge**schlossen \(close; conclude\)
   * [ ] **aus**shließen; schließen **aus** \(exclude; rule out; preclude\)
 * [ ] schelten; scheltend; **ge**scholten \(scold; berate; criticize\)
 
@@ -74,11 +74,16 @@
 
 * [x] tragen / tragend / **ge**tragen \(wear; carry \(bags, etc\); bear\)
   * Conjugation: tr**\[a\|ä\]**g \[-e / -st / -t / -en / -t / -en\]
-  * [ ] **\(?\) be**tragen \(Partizip II: betragen\) \(exceed; behave; amount\)
+  * [ ] **be**tragen \(Partizip II: betragen\) \(exceed; behave; amount \[+ number\]\)
+    * Der Preis beträgt 30 Euro. 
   * [ ] **ein**tragen; tragen **ein** \(enter; register; fill out \(form\) \(s\)\)
   * [ ] **über**tragen \(Partizip II: übertragen\) \(transmit; broadcast\)
-  * [ ] **aus**tragen; tragen **aus** \(unsubscribe; discharge\)
+  * [ ] **aus**tragen; tragen **aus** \(unsubscribe; discharge; to remove from a list\)
   * [ ] **vor**tragen; tragen **vor** \(present; recite; lecture\)
+  * [ ] **auf**tragen; tragen **auf** \(to put on sth.\)
+  * [ ] **ab**tragen; tragen **ab** \(take sth. from nature; erode; clear away\)
+  * [ ] **ver**tragen \(Partizip II: vertragen\) \(tolerate; to get along\)
+  * [ ] **beauf**tragen \(Partizip II: beauftragen\) \(to instruct; command; give mission\)
 * melden / meldend / gemeldet \(notify; report\)
   * **an**melden; melden **an** \(register; log in\)
   * [ ] **um**melden; melden **um** \(re-register\)
@@ -138,6 +143,7 @@
 * [ ] schmieren / schmierend / schmiert \(grease; lubricate; bribe\)
 * [ ] folgen / folgend / gefolgt \(follow; suceed; result\)
   * [ ] **ver**folgen \(Partizip II: verfolgt\) \(track; pursue; follow\)
+  * [ ] **er**folgen \(Partizip II: erfolgt\) \(happen; take place; occur\)
 * [ ] jagen / jagend / gejagt \(hunt; chase; hunt down\)
   * [ ] **ver**jagen \(Partizip II: verjagt\) \(chase away; drive away\) 
 
@@ -149,6 +155,14 @@
 * [ ] verpflichten / verpflichtend / verpflichtet \(to oblige; to commit; to undertake\)
 * [ ] lehnen / lehnend / gelehnt \(sit; oppose; lean\)
   * [ ] **ab**lehnen; lehnen **ab** \(refuse; decline\)
+* [ ] schießen / schießend / geschossen \(shoot; fire; kick\)
+  * [ ] **be**schießen \(Partizip II: beschossen\) \(bombard; fire; shell\)
+  * [ ] **ver**schießen \(Partizip II: verschossen\) \(shoot; fade\)
+* [ ] scheißen / scheißend / geschissen \(shit; poop on\)
+  * [ ] **be**scheißen \(Partizip II: beschissen\) \(cheat; screw over\)
+  * [ ] **an**sheißen; scheißen **an** \(shit on\)
+* [ ] wetten / wettend / gewettet \(bet\)
+* [ ] hassen / hassend / gehasst \(hate; despise; detest\)
 
 
 
@@ -163,4 +177,8 @@ Treffen oder tretten?
   * Conjugation: tr**\[e\|i\]**t \[-e / -st / -t / -en / -t / -en\]
   * [ ] **ein**treten / treten **ein** \(happen; occur; enter\)
   * [ ] **auf**treten / treten **auf** \(appear; arise\)
+  * [ ] **um**treten / treten **um** \(to kick sth. down\)
+  * [ ] **an**treten / treten **an** \(start; begin; compete\)
+  * [ ] **über**treten \(Partizip II: übertreten \| übergetreten\) \(trespass; overstep\)
+  * [ ] abtreten; treten ab \(assign; cede; relinquish; to give sth. away\)
 

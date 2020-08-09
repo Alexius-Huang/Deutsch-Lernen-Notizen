@@ -26,6 +26,7 @@ description: Already memorized
 * leben / lebend / **ge**lebt
   * **über**leben
 * machen / machend / **ge**macht
+* mögen / mögend / gemocht
 * öffnen; öffnend; geöffnet
 * ordnen / ordnend / geordnet
 * veröffentlichen / veröffentlichend / veröffentlicht

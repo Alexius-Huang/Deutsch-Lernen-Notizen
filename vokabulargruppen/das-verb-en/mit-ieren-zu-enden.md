@@ -42,4 +42,6 @@ description: End with -ieren
 * korrespond**ieren** - correspond; communicate
 * korrod**ieren** - corrode
 * korrel**ieren** - correlate
+* komment**ieren** - comment; annotate
+* konzentr**ieren** - concentrate
 
