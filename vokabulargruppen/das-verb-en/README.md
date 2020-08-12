@@ -163,6 +163,24 @@
   * [ ] **an**sheißen; scheißen **an** \(shit on\)
 * [ ] wetten / wettend / gewettet \(bet\)
 * [ ] hassen / hassend / gehasst \(hate; despise; detest\)
+* [ ] verderben / verderbend / verdorben \(spoil; ruin\)
+
+### Gruppe VIII
+
+* [ ] wahren / wahrend / gewahrt \(preserve; maintain; truth\)
+  * [ ] bewahren \(Partizip II: bewahrt\) \(preserve; keep; maintain\)
+* kaufen / kaufend / gekauft
+  * [ ] **ver**kaufen \(Partizip II: verkauft\) \(sell; sale\)
+  * [ ] **ein**kaufen; kaufen **ein** \(shop; make purchases\)
+  * [ ] **auf**kaufen; kaufen **auf** \(buy out\)
+  * [ ] **an**kaufen; kaufen **an** \(buy; purchase\)
+* [ ] klären / klärend / geklärt \(clarify; resolve\)
+  * [x] **er**klären \(Partizip II: erklärt\) \(explain; tell; describe\)
+  * [ ] **auf**klären; klären **auf** \(clarify; enlighten; resolve\)
+* [ ] würzen / würzend / gewürzt \(season; spice\)
+* [ ] frieren / frierend / gefroren \(freeze; be cold\)
+  * [ ] **ein**frieren; frieren **ein** \(freeze\)
+* [ ] verwöhnen / verwöhnend / verwöhnt \(pamper; spoil; indulge\)
 
 
 
