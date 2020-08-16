@@ -20,6 +20,7 @@
   * [Mit -ieren zu enden](vokabulargruppen/das-verb-en/mit-ieren-zu-enden.md)
   * [Mit -eln zu enden](vokabulargruppen/das-verb-en/mit-eln-zu-enden.md)
   * [Mit -ern zu enden](vokabulargruppen/das-verb-en/mit-ern-zu-enden.md)
+* [Das Adverb / -en](vokabulargruppen/das-adverb-en.md)
 * [Die Steigerungsform / -en](vokabulargruppen/das-adjektiv-e-oder-das-adverb-adverbien.md)
 * [Die Kleidung \(s.\)](vokabulargruppen/die-kleidung.md)
 * [Der Körper / -](vokabulargruppen/der-koerper.md)
