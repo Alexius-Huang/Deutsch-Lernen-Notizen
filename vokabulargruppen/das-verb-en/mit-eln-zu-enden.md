@@ -15,4 +15,6 @@
   * Partizip II: **ge**handelt
 * [ ] sammeln - collect; gather
   * Partizip II: **ge**sammelt
+* [ ] ähneln - similar to; looks like; resemble
+  * Partizip II: **ge**ähnelt
 

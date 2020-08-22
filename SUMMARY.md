@@ -13,6 +13,10 @@
   * [damit/sodass + Nebensatz](grammatik/phrase/damit-sodass-nebensatz.md)
   * [indem + Nebensatz](grammatik/phrase/indem-+-nebensatz.md)
 
+## Grammatik von Heike Pahlow
+
+* [Verben](grammatik-von-heike-pahlow/verben.md)
+
 ## Vokabulargruppen
 
 * [Das Verb / -en](vokabulargruppen/das-verb-en/README.md)

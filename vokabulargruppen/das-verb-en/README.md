@@ -2,14 +2,14 @@
 
 ### Gruppe I
 
-* [ ] achten / achtend / geachtet \(pay attention to; respect; make sure\)
+* [x] achten / achtend / geachtet \(pay attention to; respect; make sure\)
   * [ ] **miss**achten \(Partizip II: missactet\) \(ignore; disregard; disobey\)
-* [ ] verursachen / verursachend / verursacht \(to cause; to create\)
+* [x] verursachen / verursachend / verursacht \(to cause; to create\)
 * [ ] brüten / brütend / gebrütet \(to breed; nest\)
 * [ ] sprengen / sprengend / gesprengt \(blow up; explode\)
 * [ ] reichen / reichen / gereicht \(range; reach; submit\)
   * [ ] **er**reichen / erreichend / erreicht \(to reach; achieve\)
-* [ ] riechen / riechend / gerochen \(to smell\)
+* [x] riechen / riechend / gerochen \(to smell\)
 * [ ] verlieren / verlierend / verloren \(to lose; to loose\)
 * [ ] **wiedergut**machen / machen **wiedergut** \(make up\)
 * [ ] fügen / fügend / gefügt \(to add; paste; insert \[fill in sth. in slot\]\)
@@ -27,14 +27,13 @@
   * **er**halten \(Partizip II: erhalten\) \(receive; get; obtain\)
   * **unter**halten \(Partizip II: unterhalten\) \(to entertain; to chat\)
   * [ ] **an**halten; halten **an** \(stop; pause\)
-  * [ ] 
 
 ### Gruppe II
 
 * [x] steigen / steigend / gest**ie**gen \(to rise; climb; get off\)
   * [ ] **auf**steigen; steigen **auf** \(ascend\)
 * [ ] sitzen / sitzend / **gesessen** \(sit\)
-  * [ ] **be**sitzen \(possessl; own\)
+  * [ ] **be**sitzen \(possess; own\)
 * [ ] setzen / setzend / gesetzt \(to set; to put\)
   * [ ] **be**setzen \(occupy; fill\)
 * [ ] verzerren / verzerrend / verzerrt \(distort / skew\)
@@ -44,7 +43,7 @@
 * [ ] ketten / kettend / gekettet \(to chain\)
 * [ ] sich verlassen / sich verlassend / sich verlassen \(leave; abandon\)
   * Conjugation: sich verl**\[a\|ä\]**ss \[-e / -t / -t / -en / -t / -en\]
-* [ ] gewinnen / gewinnend / gewonnen \(win; get; gain\)
+* [x] gewinnen / gewinnend / gewonnen \(win; get; gain\)
 * [ ] erhöhen / erhöhend / erhöht \(increase; raise\)
 * [ ] rufen / rufend / gerufen \(call; shout\)
   * [x] **an**rufen; rufen **an** \(phone; invoke\)
@@ -94,12 +93,17 @@
   * [ ] **an**nehmen; nehmen **an** \(accept\)
   * [ ] **aus**nehmen; nehmen **aus** \(exampt; exclude\)
   * [ ] **unter**nehmen \(Partizip II: unternommen \| untergenommen\) \(undertake; corporate\)
-* [ ] drucken / druckend / gedruckt \(print\)
+* [x] drucken / druckend / gedruckt \(print\)
+  * [ ] **aus**drucken; drucken **aus** \(print out\)
+* [ ] drücken / drückend / gedrückt \(press; squeeze\)
+  * [ ] **aus**drücken; drücken **aus** \(express; put; phrase\)
 * [ ] locken / lockend / gelockt \(attract; lure; entice\)
   * [ ] **an**locken; locken **an** \(attarct; bait\)
 * [x] wachen / wachend / gewacht \(wake; watch\)
   * [ ] **auf**wachen; wachen **auf** \(awaken; wake up\)
   * [ ] **über**wachen \(monitor; supervise; check\)
+* [ ] wachsen / wachsend / gewachsen \(grow; expand; wax\)
+  * Conjugation: w**\[a\|ä\]**chs \[-e / -t / -t / -en / -t / -en\]
 * [ ] schlafen / schlafend / geschlafen
   * Conjugation: schl**\[a\|ä\]**f \[-e / -st / -t / -en / -t / -en\]
   * [ ] **ver**schlafen \(oversleep\)
@@ -181,6 +185,11 @@
 * [ ] frieren / frierend / gefroren \(freeze; be cold\)
   * [ ] **ein**frieren; frieren **ein** \(freeze\)
 * [ ] verwöhnen / verwöhnend / verwöhnt \(pamper; spoil; indulge\)
+* [ ] überblicken / überblickend / überblickt \(to overlook; to see\)
+* [ ] tauchen / tauchend / getaucht \(dive; plunge; dip\)
+  * [ ] **auf**tauchen; tauchen **auf** \(emerge; appear; show up\)
+* [ ] führen \(?\) / führend / geführt \(guide; conduct; wage\)
+  * [ ] **aus**führen; führen **aus** \(run; perform; execute\)
 
 
 
