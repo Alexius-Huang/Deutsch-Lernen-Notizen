@@ -15,4 +15,6 @@
   * Partizip II: **ge**speichert
 * plaudern - chat; talk; catch up
   * Partizip II: **ge**plaudert
+* [ ] ändern - change; modify; alter
+  * Partizip II: **ge**ändert
 

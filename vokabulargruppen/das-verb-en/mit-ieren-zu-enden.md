@@ -35,7 +35,7 @@ description: End with -ieren
 * organis**ieren** - organize
 * telefon**ieren** - telephone sb.; call sb.
 * sort**ieren** - sort; reorder
-* pass**ieren** - occure; happen
+* pass**ieren** - occur; happen
 * konjug**ieren** - conjugate
 * [ ] recherch**ieren** - research; investigate
 * korrig**ieren** - correct; fix; adjust
@@ -44,4 +44,6 @@ description: End with -ieren
 * korrel**ieren** - correlate
 * komment**ieren** - comment; annotate
 * konzentr**ieren** - concentrate
+* [ ] spaz**ieren** - stroll; walk; wander
+  * spazieren**gehen**; **gehen** spazieren \(Partizip II: spazieren_gegangen_\)
 

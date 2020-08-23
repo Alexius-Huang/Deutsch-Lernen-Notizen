@@ -130,8 +130,9 @@
 
 ### Gruppe VI
 
-* [ ] wenden / wendend / gewandt \| gewendet \(turn; apply; please\)
+* [ ] wenden\(?\) / wendend / gewandt \| gewendet \(turn; apply; please\)
   * [ ] **an**wenden; wenden **an** \(apply\)
+  * [ ] **ver**wenden \(use; utilize; apply\)
 * [ ] bellen / bellend / gebellt \(bark; woof\)
   * [ ] **an**bellen; bellen **an** \(bark at\)
 * [ ] greifen / greifend / gegriffen \(grab; reach; engage\)
@@ -190,6 +191,13 @@
   * [ ] **auf**tauchen; tauchen **auf** \(emerge; appear; show up\)
 * [ ] führen \(?\) / führend / geführt \(guide; conduct; wage\)
   * [ ] **aus**führen; führen **aus** \(run; perform; execute\)
+* [ ] bilden / bildend / gebildet \(form; make; constitute\)
+* [ ] lachen / lachend / gelacht \(laugh; smile; joke\)
+
+### Gruppe IX
+
+* [ ] mieten / mietend / gemietet \(rent; lease\)
+* [ ] zelten / zeltend / gezeltet \(camp; camp out\)
 
 
 

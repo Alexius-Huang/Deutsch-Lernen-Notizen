@@ -39,5 +39,53 @@ Status verbs describes a situation, therefore something in static state. Example
 * die Elbe - the river Elbe
 * ähneln - resemble; similar to; looks like
 
+### Transitive und intransitive Verben
 
+> Transitive Verben sind alle Verben mit einem _Akkusativobject_. Im Wörterbuch steht bei diesen Verben der **Zusatz** _vt_ order _trans_. Transitive Verben können das Passiv **bilden** - das Akkusativobjekt wird dann zum Subjekt. Beispiel: Er _**deckt**_ den Tisch. - Der Tisch _wird gedeckt_.
+
+Transitive verbs are all verbs with an Akkusative object. In dictionary, these verbs have additional mark denoted by _vt_ or _trans_. Transitive verbs could also be formed in passive, which is the Accusative object then becomes the subject. For instance, he sets the table. - The table is set.
+
+> Intransitive Verben sind alle Verben, die wir ohne Akkusativobjekt **verwenden**. Im Wörterbuch steht bei diesen Verben meist der Zusatz _vi_. Intransitive Verben können normalerweise kein Passiv bilden. Beispiel: Er _**lachte**_. \(Nicht möglich: ~~Er wurde gelacht~~.\)
+
+Intransitive verbs are all verbs that use without an Akkusativ object. In dictionary these verbs mostly have additional mark _vi._ Intransitive verbs normally can't be in passive form. For instance, he laughed. \(Not possible with: He was laughed.\)
+
+* bilden - form; make; constitute
+* der Zusatz / Zusätze - additional mark; addition
+* decken - meet; satisfy; cover
+* verwenden - use; utilize; apply
+* lachen - laugh \(_Past_: lachten\)
+
+### Finite und infinite Verben
+
+TBD
+
+### Schwache, starke und gemischte Verben
+
+TBD
+
+### Vollverben und Hilfsverben
+
+## Zeitformen \(Tenses\)
+
+### Präsens \(Gegenwart\)
+
+### Perfekt \(Vollendete Gegenwart\)
+
+### Präteritum \(Imperfekt, Vergangenheit\)
+
+### Plusquamperfekt \(Vorvergangenheit\)
+
+### Futur I \(Zukunft\)
+
+### Futur II \(Vollendete Zukunft\)
+
+## Modalverben
+
+> Modalverben sind dürfen, können, mögen, müssen, sollen und wollen. Mit diesen Verben können wir den **Inhalt** einer **Aussage ändern** - es ist zum Beispiel ein Unterschied, **ob** jemand etwas tun _muss_ oder _darf_.
+
+Modal verbs are _allow_, _can_, _like_, _must_, _should_ and _will_. With these verbs, we can 
+
+* der Inhalt / -e - content; meaning
+* die Aussage / -n - statement; opinion; report; testimony
+* ändern - change; alter; modify
 
