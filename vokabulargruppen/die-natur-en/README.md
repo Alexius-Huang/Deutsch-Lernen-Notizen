@@ -9,6 +9,7 @@ description: Nature
 * der Berg / -e
 * [ ] der Fluss / Flüsse
 * der Baum / Bäume
+  * [ ] die Birke / -n \(birch tree\)
 * [ ] das Meer / -e
 * [ ] der Ozean / -e
 * das Wasser / -

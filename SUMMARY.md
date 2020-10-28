@@ -19,6 +19,7 @@
 
 ## Vokabulargruppen
 
+* [Vokabeln](vokabulargruppen/vokabeln.md)
 * [Das Verb / -en](vokabulargruppen/das-verb-en/README.md)
   * [Schon Erinnert](vokabulargruppen/das-verb-en/schon-erinnert.md)
   * [Mit -ieren zu enden](vokabulargruppen/das-verb-en/mit-ieren-zu-enden.md)
@@ -45,4 +46,8 @@
 * [Für 05.08.2020](meine-hausaufgaben/fuer-05.08.2020.md)
 * [Für 29.09.2020](meine-hausaufgaben/fuer-29.09.2020.md)
 * [Für 11.07.2020](meine-hausaufgaben/fuer-11.07.2020.md)
+
+---
+
+* [Hausaufgabe um 18.10.2020](hausaufgabe-um-18.10.2020.md)
 

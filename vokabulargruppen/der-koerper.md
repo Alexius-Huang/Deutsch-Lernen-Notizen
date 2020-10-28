@@ -39,5 +39,7 @@ description: Body
 * [ ] das Gefäß / -e \(vessel\)
   * das Blutgefäß - blood vessel
 
+## Anderes
 
+* [ ] die Akne / -n \(acne\)
 

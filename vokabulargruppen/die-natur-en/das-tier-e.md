@@ -10,6 +10,7 @@ description: Animal
   * [ ] die Ratte / -n
 * die Kuh / Kühe
   * [ ] der Ochs\(e\) / -en\(-n\) \(ox\)
+  * [ ] das Kalb / Kälber \(calf; young cow\)
 * der Tiger / -
   * die Katze / -n
   * das Kätzchen / - \(kitten\)
@@ -36,6 +37,10 @@ description: Animal
 * Misc.
   * der Mensch / -en
   * der Bär / -e
+  * [ ] der Hirsch / -e \(deer\)
+    * [ ] das Reh / -e \(roe deer\)
+    * [ ] das Kitz / -e \(fawn; young deer\)
+    * [ ] das Wild \(s.\) \(deer; venison\)
 * der Fisch / -e
   * der Hai\(fisch\) / -e\(-e\)
   * [ ] die Schildkröte / -n

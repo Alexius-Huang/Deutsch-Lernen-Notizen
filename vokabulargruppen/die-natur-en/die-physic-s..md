@@ -9,4 +9,5 @@ description: Physics
 * [ ] der Druck / Drücke \(pressure\)
 * [ ] die Schwere \(s.\) \(heaviness; gravity\)
 * [ ] der Magnetismus \(s.\) \(magnetism\)
+* [ ] die Enge / -n \(tightness; narrowness\)
 

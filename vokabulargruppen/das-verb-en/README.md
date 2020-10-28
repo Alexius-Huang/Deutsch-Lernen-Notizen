@@ -198,6 +198,8 @@
 
 * [ ] mieten / mietend / gemietet \(rent; lease\)
 * [ ] zelten / zeltend / gezeltet \(camp; camp out\)
+* [ ] reißen / reißend / gerissen \(tear; rip; break\)
+  * [ ] **ab**reißen; reißen **ab** \(demolish; tear off; tear down\)
 
 
 
