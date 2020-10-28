@@ -41,13 +41,10 @@
 
 ## Meine Hausaufgaben
 
+* [Hausaufgabe um 18.10.2020](meine-hausaufgaben/hausaufgabe-um-18.10.2020.md)
 * [Für ???](meine-hausaufgaben/fuer.md)
 * [Für 08.08.2020](meine-hausaufgaben/fuer-08.08.2020.md)
 * [Für 05.08.2020](meine-hausaufgaben/fuer-05.08.2020.md)
 * [Für 29.09.2020](meine-hausaufgaben/fuer-29.09.2020.md)
 * [Für 11.07.2020](meine-hausaufgaben/fuer-11.07.2020.md)
-
----
-
-* [Hausaufgabe um 18.10.2020](hausaufgabe-um-18.10.2020.md)
 
